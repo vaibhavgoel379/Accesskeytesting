@@ -1,4 +1,1 @@
-Hi {AKIAT7X477GUZECBBLTW}
-"CCQeXi0it4tAbCgHLD1OwFowsTvoOpj7X9/342nA"
-
-This will not work when secret key has a prefix 000
+Hi
