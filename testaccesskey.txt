@@ -1,2 +1,4 @@
-HiAKIAT7X477GU5A7J3P6O
+Hi {AKIAT7X477GU5A7J3P6O}
 iwFzUyZVxGpkFdG8agxqSyeJKjM7+mWjMCUjyyH8
+
+This wont work since access key is individually not visible.
