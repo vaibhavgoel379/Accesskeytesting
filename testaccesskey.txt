@@ -1,4 +1,4 @@
 Hi {AKIAT7X477GUZECBBLTW}
-000CCQeXi0it4tAbCgHLD1OwFowsTvoOpj7X9/342nA
+"CCQeXi0it4tAbCgHLD1OwFowsTvoOpj7X9/342nA"
 
-This will work.
+This will not work when secret key has a prefix 000
